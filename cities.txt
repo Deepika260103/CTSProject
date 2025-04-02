@@ -1,5 +1,4 @@
 chennai
 bangalore
 hydrabad
-delhi
-kolkata
+Salem
